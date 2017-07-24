@@ -8,7 +8,7 @@
 
 
 #define SSID      "beaunes"
-#define KEY       "simplice971"
+#define KEY       ""
 #define AUTH      WIFLY_AUTH_WPA2_PSK     // or WIFLY_AUTH_WPA1, WIFLY_AUTH_WEP, WIFLY_AUTH_OPEN
 
 
